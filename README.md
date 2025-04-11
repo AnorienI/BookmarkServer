@@ -8,7 +8,7 @@ in creating and deploying a lightweght web application.
 - Basic Python web server ("BookmarkServer.py")
 - Minimal dependencies (see "requrements.txt")
 - Deployable on cloud pltform (heroku, Render, etc)
-- Configured with a 'Procfile' and 'runtim.txt' for easy deployment.
+- Configured with a 'Procfile' and 'runtime.txt' for easy deployment.
 
 ### Gettng started
 
