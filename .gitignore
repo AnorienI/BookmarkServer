@@ -1,0 +1,19 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs (if you ever create them)
+*.log
+
+# OS backup files
+*.swp
+*.swo
